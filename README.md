@@ -1,8 +1,5 @@
 
 
----
-
-````markdown
 # 🏡 Household Chatbot (Python CLI)
 
 This is a simple command-line based **household chatbot assistant** that manages basic day-to-day tasks like reminders, shopping lists, and greetings. It's built in Python using clean modular design principles and basic Natural Language Processing (NLP).
@@ -31,9 +28,6 @@ Intent Dispatcher ──► ListManager
    │
    ▼
 Response Generation
-````
-
----
 
 ## 🔧 Tech Stack
 
