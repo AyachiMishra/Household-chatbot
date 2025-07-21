@@ -98,8 +98,6 @@ Hi there! How can I help you today?
 
 ## 📌 Project Status
 
-✅ MVP completed
-🧩 More features can be added
 📂 Well-structured and easy to extend
 
 ---
@@ -108,14 +106,4 @@ Hi there! How can I help you today?
 
 Contributions and suggestions are welcome. Just open an issue or PR!
 
----
 
-```
-
-Let me know if you'd like to include:
-- Your name or GitHub profile
-- A badge (like "Made with Python" or "MIT License")
-- Any instructions for Windows/Mac users specifically
-
-Once you add this to your GitHub `README.md`, your project will look very polished and ready for showcasing.
-```
