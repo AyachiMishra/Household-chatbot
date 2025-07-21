@@ -1,4 +1,4 @@
-Here's your polished `README.md` for the project without the license or screenshots:
+
 
 ---
 
